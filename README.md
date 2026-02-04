@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Drumond Valente</h1>
-<h3 align="center">A aspiring back-end developer from Brazil</h3>
+<h3 align="center">A front-end developer from Brazil</h3>
 
-💬 **About me**: I hold a degree in the field of Computer Science from FIAP University. On my Github I like to share my projects and things that I learn throughout my journey as a Backend developer. Feel free to contact me on LinkedIn.
+💬 **About me**: I hold a degree in the field of Computer Science from FIAP University. On my Github I like to share my projects and things that I learn throughout my journey as a front-end developer. Feel free to contact me on LinkedIn.
 
 🎓 **Languages**: **English** - Advanced ; **Portuguese** - Native
 
@@ -9,10 +9,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
+  &nbsp&nbsp
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
   &nbsp&nbsp
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   &nbsp&nbsp
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  &nbsp&nbsp
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  &nbsp&nbsp
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> </a>
   &nbsp&nbsp
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
   &nbsp&nbsp
